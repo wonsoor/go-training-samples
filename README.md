@@ -8,9 +8,10 @@ The primary objective is to solidify my knowledge of the Go programming language
 ## 📚 Project Structure
 Each directory represents a core topic covered in the course:
 
-*   `01_interfaces` — Deep dive into **Interfaces** and idiomatic **Error Handling**.
-*   `02_concurrency` — Advanced Go features including **Goroutines**, **Channels**, `WaitGroup`, `Context`, and synchronization primitives (`Mutex`, `RWMutex`, `Atomics`).
-*   `03_rest_api` — Development of a functional **HTTP Server** using the standard library, managing **JSON** payloads, query parameters, and implementing **REST API** architectural principles.
+*   `01_interfaces` - Deep dive into **Interfaces** and idiomatic **Error Handling**.
+*   `02_error_handling` - Deep dive into idiomatic **Error Handling**.
+*   `03_concurrency` - Advanced Go features including **Goroutines**, **Channels**, `WaitGroup`, `Context`, and synchronization primitives (`Mutex`, `RWMutex`, `Atomics`).
+*   `04_rest_api` - Development of a functional **HTTP Server** using the standard library, managing **JSON** payloads, query parameters, and implementing **REST API** architectural principles.
 
 ## 🛠 Tech Stack
 *   **Language:** Go (Golang)
